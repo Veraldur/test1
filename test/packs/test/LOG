@@ -1,0 +1,8 @@
+2026/08/28-23:50:49.981 35ec Recovering log #4
+2026/08/28-23:50:50.048 35ec Delete type=0 #4
+2026/08/28-23:50:50.048 35ec Delete type=3 #2
+2026/08/28-23:53:42.073 46ac Level-0 table #9: started
+2026/08/28-23:53:42.074 46ac Level-0 table #9: 0 bytes OK
+2026/08/28-23:53:42.104 46ac Delete type=0 #7
+2026/08/28-23:53:42.221 46ac Manual compaction at level-0 from '!effects!nJ48VFnzhMTG0oUc' @ 72057594037927935 : 1 .. '!effects!zEolHTn6kNZTUk9g' @ 0 : 0; will stop at (end)
+2026/08/28-23:53:42.222 46ac Manual compaction at level-1 from '!effects!nJ48VFnzhMTG0oUc' @ 72057594037927935 : 1 .. '!effects!zEolHTn6kNZTUk9g' @ 0 : 0; will stop at (end)
